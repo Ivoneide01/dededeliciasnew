@@ -2,7 +2,7 @@
 /*NAVEGACAO*/
 header {
     padding: 5px 10px;
-    background-image: url("/Portifolio-novo/img/docesazulespaco.jpg");
+    background-image: url("/img/docesazulespaco.jpg");
     position: fixed;
     backdrop-filter: blur(25px);
     border-bottom: 1px solid rgb(216, 204, 208) ;

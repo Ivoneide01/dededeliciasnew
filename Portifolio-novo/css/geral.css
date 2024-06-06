@@ -57,7 +57,7 @@ ul {
 
 main {
     display: grid;
-    background-image: url("/Portifolio-novo/img/azuldoces.jpg");
+    background-image: url("/img/azuldoces.jpg");
     transition: 0.5s;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas: "header header header header" "home home home home" "sobre sobre sobre sobre" "servicos servicos servicos servicos" "portfolio portfolio portfolio portfolio" "contato contato contato contato" "footer footer footer footer";
