@@ -3,7 +3,7 @@
 header {
     padding: 5px 10px;
     background-image: url("/img/docesazulespaco.jpg");
-    position: fixed;
+    position:absolute;
     backdrop-filter: blur(25px);
     border-bottom: 1px solid rgb(216, 204, 208) ;
     width: 100%;
@@ -265,10 +265,4 @@ header ul li.active a::after {
     }
 }
 
-@media (max-width: 374px) {
-    #menu{
-        display: flex;
-        width: 100%;
-        
-    } 
-}
+
