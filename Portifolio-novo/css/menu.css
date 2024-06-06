@@ -135,7 +135,7 @@ header ul li.active a::after {
 
 @media (max-width: 100px) {
     #menu {
-        display: block;
+        display: flex;
         position: absolute;
         top: 0;
         right: 0px;
@@ -263,4 +263,12 @@ header ul li.active a::after {
     .toggle img {
         top: -34px;
     }
+}
+
+@media (max-width: 374px) {
+    #menu{
+        display: flex;
+        width: 100%;
+        
+    } 
 }
